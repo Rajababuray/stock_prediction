@@ -33,7 +33,7 @@ To run this Streamlit app locally, follow these steps:
 - Additionally, it showcases a real-time stock price plot, volume analysis, and a time series decomposition plot to visualize trends, seasonality, and residuals in the stock data.
 ![a2](https://github.com/Rajababuray/stock_prediction/assets/130639226/3ca5e6ef-e0f3-4ab1-9130-4d77009f9dcd)
 
-### Contributors (optional):
+### Contributors:
 
 - Contributors who have contributed to the codebase or project can be listed here with their respective contributions or roles in the project.
 - If there are no specific contributors, this section can be omitted or left empty.
